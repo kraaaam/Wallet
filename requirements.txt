@@ -1,6 +1,6 @@
 confluent-kafka==2.3.0
 django-environ==0.10.0
-Django==4.2.9
+Django==4.2.11
 django-extensions==3.2.3
 djangorestframework==3.14.0
 redis==4.6.0
